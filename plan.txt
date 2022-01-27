@@ -1,0 +1,4 @@
+Final Project Plan:
+- Flask
+- API: https://exchangerate.host/#/docs
+- SQLite
